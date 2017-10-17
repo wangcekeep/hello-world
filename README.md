@@ -1,2 +1,2 @@
 # hello-world
-easy reposity
+easy repository
