@@ -1,2 +1,3 @@
 # hello-world
-easy repository
+easy repository.
+I'm a green hand.
